@@ -9,6 +9,7 @@
     z-index: -1;
 }
 .container-intro{
+    color: white;
     display: flex;
     flex-direction: column; 
     justify-content: center; 
