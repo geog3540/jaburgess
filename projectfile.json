@@ -1,6 +1,6 @@
 {
   "projectName": "test project",
-  "date": "05/01/2023",
+  "date": "05/07/2023",
   "onlineBaseMapSettings": {
     "baseMap": "esriLightGray",
     "projection": "abEqAreaSthAm",
@@ -29814,9 +29814,9 @@
     "ifMapAttribute": true,
     "cfMethod": "EqualInterval",
     "clsNum": 3,
-    "clrScheme": "Blues",
-    "minCustomColor": "#000000",
-    "maxCustomColor": "#000000",
+    "clrScheme": "Custom",
+    "minCustomColor": "#10c113",
+    "maxCustomColor": "#e0bb06",
     "noAttrFillColor": "#c2c2c2",
     "fillOpacity": "100",
     "radiusMin": 5,
